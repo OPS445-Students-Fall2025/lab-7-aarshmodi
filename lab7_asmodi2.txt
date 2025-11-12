@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: aarsh
+    Linux system name: aarshOPS445
+    Python executable: /usr/bin/python3
+    Python version: 3106
+    OS Platform: linux
+    Working Directory: /home/aarsh/ops445/lab7
+    Start at: Wed Nov 12 08:29:06 2025
+=================================================================
